@@ -1,2 +1,5 @@
-# .github
-Default community health files for Claremont Computer Network GitHub Organization
+# Open Source at the Claremont Computer Network
+
+## All Claremont Computer Network GitHub organizations
+
+* [claremont-computer-network](https://github.com/claremont-computer-network) – our primary GitHub organization
